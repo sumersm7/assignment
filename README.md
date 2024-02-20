@@ -21,6 +21,8 @@ You are required to create the following screens:
 5. **Order History Screen**
 <img width="228" alt="82_Light_my bookings completed" src="https://github.com/sumersm7/assignment/assets/82924076/3e036514-2cde-4bf8-b2e5-c1dc153047fd">
 
+[Figma Link](https://www.figma.com/file/tb99HVcD4V9AY97BfpHxLT/assignment?type=design&mode=design&t=rXVWLcoDVFfIfjh2-1)
+
 ## Assessment Criteria
 - Marks will be allotted based on the 
   - Number of screens (out of 5 screens).
