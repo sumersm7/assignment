@@ -31,7 +31,7 @@ You are required to create the following screens:
   - Models classes for data representation
   - Utilization of state management, preferably using Provider package.
  
-Note :- Please don't hesitate to reach out if you have any questions or require clarification on anything.
+Note :- Please don't hesitate to reach out if you have any questions or require clarification on this internship or this assignment.
  
 ## Submission
 1. Contact me by mail/message as send along with this link. and get the deadline time and date before start working it.
