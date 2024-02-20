@@ -1,7 +1,7 @@
 # Flutter Internship Assignment
 
 ## Objective
-Welcome to the Flutter Internship Assignment! Your task is to create a Flutter project with the following screens.
+Welcome to the Flutter Internship Assignment! Your task is to follow the instruction to create a Flutter project with the following screens.
 
 ## Screens
 You are required to create the following screens:
@@ -34,9 +34,10 @@ You are required to create the following screens:
 Note :- Please don't hesitate to reach out if you have any questions or require clarification on anything.
  
 ## Submission
-1. link to the github repo
-2. screenshots and video(optional) in the repo or google drive link
-3. preferred time and of interview
+1. Contact me by mail/message as send along with this link. and get the deadline time and date before start working it.
+2. link to the github repo
+3. screenshots and video(optional) in the repo or google drive link
+4. preferred time and of interview
 - fail to provide any one of the above Submission point will lead to disqualification.
  
 ## Benefits of this Internship
