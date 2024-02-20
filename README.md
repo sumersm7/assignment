@@ -30,7 +30,9 @@ You are required to create the following screens:
   - Light and dark theme support
   - Models classes for data representation
   - Utilization of state management, preferably using Provider package.
-
+ 
+Note :- Please don't hesitate to reach out if you have any questions or require clarification on anything.
+ 
 ## Submission
 1. link to the github repo
 2. screenshots and video(optional) in the repo or google drive link
