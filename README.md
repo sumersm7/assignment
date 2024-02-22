@@ -30,6 +30,8 @@ feel free to duplicate to ur draft [Figma Link](https://www.figma.com/file/tb99H
   - functionality of your code.
 - Optional task list but not limited to, for bonus marks are:
   - Light and dark theme support
+  - provider for state management
+  - goRouter for routing
   - Models classes for data representation
   - Utilization of state management, preferably using Provider package.
  
